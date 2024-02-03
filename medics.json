@@ -1,292 +1,640 @@
 [
-  {
-    "name": "Alexandre Curvello Araújo D'Oliveira",
-    "crm": 52721026,
-    "specialty": "Ortopedista"
-  },
-  {
-    "name": "Aline Alo Leão Maia",
-    "crm": 52597829,
-    "specialty": "Ginecologista"
-  },
-  {
-    "name": "Ana Paula dos Santos",
-    "crm": 52658553,
-    "specialty": "Ultrasson"
-  },
-  {
-    "name": "Andréa Bello",
-    "crm": 52550928,
-    "specialty": "Ortopedista"
-  },
-  {
-    "name": "Angela Cristina Silva Aguiar",
-    "crm": 52533203,
-    "specialty": "Pediatra"
-  },
-  {
-    "name": "Bianca de Mello Guaraldi",
-    "crm": 52812412,
-    "specialty": "Dermatologista"
-  },
-  {
-    "name": "Carla Bianca Gonçalves Goulart",
-    "crm": 52795399,
-    "specialty": "Alergista"
-  },
-  {
-    "name": "Carlos Antonio da Silva Junior",
-    "crm": 52367922,
-    "specialty": "Cirurgião Geral"
-  },
-  {
-    "name": "Carlos Roberto Mendonça Santos",
-    "crm": 52249654,
-    "specialty": "Neurologista"
-  },
-  {
-    "name": "Carlos Roberto Nogueira dos Santos",
-    "crm": 52246696,
-    "specialty": "Médico Clínico"
-  },
-  {
-    "name": "Caroline de Oliveira Moraes",
-    "crm": 521023950,
-    "specialty": "Ultrasson"
-  },
-  {
-    "name": "Claudia Mendes da Rocha",
-    "crm": 52604314,
-    "specialty": "Gastro ou Médico Clínico"
-  },
-  {
-    "name": "Clênio Gebara Basílio Junior",
-    "crm": 52428800,
-    "specialty": "Urologista"
-  },
-  {
-    "name": "Damiana da Silva Jardim",
-    "crm": 52922340,
-    "specialty": "Endocrino"
-  },
-  {
-    "name": "Daniel Lino Machado",
-    "crm": 521165496,
-    "specialty": "Ultrasson"
-  },
-  {
-    "name": "Daniel Portela Tinoco",
-    "crm": 52957879,
-    "specialty": "Gastro"
-  },
-  {
-    "name": "Douglas Fernandes de Souza",
-    "crm": 521043781,
-    "specialty": "Cardiologista"
-  },
-  {
-    "name": "Eidga Maynard do Lago",
-    "crm": 52380242,
-    "specialty": "Ginecologista"
-  },
-  {
-    "name": "Fábio Machado Ventura",
-    "crm": 52678465,
-    "specialty": "Cardiologista"
-  },
-  {
-    "name": "Fernanda Tardelli Sanchez Tatsch",
-    "crm": 5201024310,
-    "specialty": "Alergista"
-  },
-  {
-    "name": "Fernando Sá Freire de Pinho Junior",
-    "crm": 52603941,
-    "specialty": "Cirurgião Geral"
-  },
-  {
-    "name": "Filipi Periard Martins",
-    "crm": 52879169,
-    "specialty": "Ultrasson"
-  },
-  {
-    "name": "Frederico Adolfo Lyra",
-    "crm": 5200568414,
-    "specialty": "Gine/Nutro"
-  },
-  {
-    "name": "Gabriela Carvalho Souza de Az Macharet",
-    "crm": 52796298,
-    "specialty": "Ginecologista"
-  },
-  {
-    "name": "Heitor José Utrini Fontes",
-    "crm": 52659789,
-    "specialty": "Cirurgião Geral"
-  },
-  {
-    "name": "Helcio Zaghetto Gama",
-    "crm": 52265392,
-    "specialty": "Ortopedia"
-  },
-  {
-    "name": "Iracemy Souto da Silva Junior",
-    "crm": 52763691,
-    "specialty": "Ultrasson"
-  },
-  {
-    "name": "Jane Oliveira Guimarães",
-    "crm": 52531598,
-    "specialty": "Cirurgia Geral"
-  },
-  {
-    "name": "Jean Allan Costa",
-    "crm": 52438571,
-    "specialty": "Cardiologista e Eco"
-  },
-  {
-    "name": "Joana Darc Repolês",
-    "crm": 52939358,
-    "specialty": "Dermatologista"
-  },
-  {
-    "name": "José Izaí",
-    "crm": 52153494,
-    "specialty": "Psiquiatra"
-  },
-  {
-    "name": "José Maurício dos Anjos Silva",
-    "crm": 52419361,
-    "specialty": "Ginecologista Médico Clínico"
-  },
-  {
-    "name": "Kelen Gleice Lima Lemos Nascimento",
-    "crm": 52662097,
-    "specialty": "Pediatra"
-  },
-  {
-    "name": "Luiz Carlos Brito de Alcantara",
-    "crm": 52656860,
-    "specialty": "Neurologista"
-  },
-  {
-    "name": "Luiz Eduardo Marquez Neira",
-    "crm": 52665720,
-    "specialty": "Ginecologista"
-  },
-  {
-    "name": "Luiza Elizabete de Paiva Carvalho",
-    "crm": 52420542,
-    "specialty": "Médico Clínico"
-  },
-  {
-    "name": "Marcelo Chagas Tassara",
-    "crm": 52607086,
-    "specialty": "Proctologista"
-  },
-  {
-    "name": "Márcia Cristina do Nasc Moreira Mattos",
-    "crm": 52599024,
-    "specialty": "Pediatria"
-  },
-  {
-    "name": "Maria Helena Coutinho Centeio",
-    "crm": 52609270,
-    "specialty": "Médico Clínico"
-  },
-  {
-    "name": "Mariana Parga Rodrigues",
-    "crm": 52640549,
-    "specialty": "Endocrino"
-  },
-  {
-    "name": "Mauro Braga Bergamini",
-    "crm": 52869562,
-    "specialty": "Cardiologista"
-  },
-  {
-    "name": "Mayara Machado de Oliveira Cruz",
-    "crm": 52860697,
-    "specialty": "Endocrino"
-  },
-  {
-    "name": "Milena Chagas Direito",
-    "crm": 52980811,
-    "specialty": "Dermatologista"
-  },
-  {
-    "name": "Milena Souza da Silveira",
-    "crm": 52984949,
-    "specialty": "Angiologista"
-  },
-  {
-    "name": "Osvaldo Machado Filho",
-    "crm": 52847763,
-    "specialty": "Psiquiatra"
-  },
-  {
-    "name": "Otávio Silva Fonseca",
-    "crm": 52855820,
-    "specialty": "Nefrologista"
-  },
-  {
-    "name": "Paula Fernanda Mello Camara",
-    "crm": 52688061,
-    "specialty": "Ultrasson"
-  },
-  {
-    "name": "Raiza Rezende Evangelista dos Santos",
-    "crm": 52988430,
-    "specialty": "Oftalmologista"
-  },
-  {
-    "name": "Ricardo Rezende Pereira",
-    "crm": 52596965,
-    "specialty": "Geriatra"
-  },
-  {
-    "name": "Rodolfo Guia Mureb",
-    "crm": 52856185,
-    "specialty": "Urologista"
-  },
-  {
-    "name": "Rodrigo Antoun Collares",
-    "crm": 52500401,
-    "specialty": "Pediatra"
-  },
-  {
-    "name": "Sávio Daflon Pereira",
-    "crm": 52797529,
-    "specialty": "Urologista"
-  },
-  {
-    "name": "Solange Magno da Silva Lourenço",
-    "crm": 52537075,
-    "specialty": "Ginecologista"
-  },
-  {
-    "name": "Thaciana Abreu Machado Lomeu",
-    "crm": 521233050,
-    "specialty": "Ginecologista"
-  },
-  {
-    "name": "Thamara Freire Souza",
-    "crm": 52957437,
-    "specialty": "Cardiologista"
-  },
-  {
-    "name": "Valter Estelita dos Santos",
-    "crm": 52437459,
-    "specialty": "Médico Clínico"
-  },
-  {
-    "name": "Wagner Garcia Bastos",
-    "crm": 52922765,
-    "specialty": "Ortopedia"
-  },
-  {
-    "name": "Waldecir Melo",
-    "crm": 52276355,
-    "specialty": "Otorrino"
-  }
+	{
+	  "name": "Alexandre Curvello Araújo D'Oliveira",
+		"crm": 52721026,
+		"specialty": ["Ortopedista"],
+		"price": 198,					
+		"moneyInCash": 180,
+		"participative": 187,
+		"participativeInCash": 170,
+		"buyBack": 10,
+		"obs": false
+	},
+	{
+	  "name": "Aline Alo Leão Maia",
+		"crm": 52597829,
+		"specialty": ["Ginecologista"],
+		"price": 198,					
+		"moneyInCash": 180,
+		"participative": 187,
+		"participativeInCash": 170,
+		"buyBack": 10,
+		"obs": false
+	},
+	{
+	  "name": "Ana Paula dos Santos",
+		"crm": 52658553,
+		"specialty": ["Ultrasson"],
+		"price": 198,					
+		"moneyInCash": 180,
+		"participative": 187,
+		"participativeInCash": 170,
+		"buyBack": 10,
+		"obs": false
+	},
+	{
+	  "name": "Andréa Bello",
+		"crm": 52550928,
+		"specialty": ["Ortopedista"],
+		"price": 198,					
+		"moneyInCash": 180,
+		"participative": 187,
+		"participativeInCash": 170,
+		"buyBack": 10,
+		"obs": false
+	},
+	{
+	  "name": "Angela Cristina Silva Aguiar",
+		"crm": 52533203,
+		"specialty": ["Pediatra"],
+		"price": 198,					
+		"moneyInCash": 180,
+		"participative": 187,
+		"participativeInCash": 170,
+		"buyBack": 10,
+		"obs": false
+	},
+	{
+	  "name": "Bianca de Mello Guaraldi",
+		"crm": 52812412,
+		"specialty": ["Dermatologista"],
+		"price": 198,					
+		"moneyInCash": 180,
+		"participative": 187,
+		"participativeInCash": 170,
+		"buyBack": 10,
+		"obs": false
+	},
+	{
+	  "name": "Carla Bianca Gonçalves Goulart",
+		"crm": 52795399,
+		"specialty": ["Alergista"],
+		"price": 198,					
+		"moneyInCash": 180,
+		"participative": 187,
+		"participativeInCash": 170,
+		"buyBack": 10,
+		"obs": false
+	},
+	{
+	  "name": "Carlos Antonio da Silva Junior",
+		"crm": 52367922,
+		"specialty": ["Cirurgião Geral"],
+		"price": 198,					
+		"moneyInCash": 180,
+		"participative": 187,
+		"participativeInCash": 170,
+		"buyBack": 10,
+		"obs": false
+	},
+	{
+	  "name": "Carlos Roberto Mendonça Santos",
+		"crm": 52249654,
+		"specialty": ["Neurologista"],
+		"price": 198,					
+		"moneyInCash": 180,
+		"participative": 187,
+		"participativeInCash": 170,
+		"buyBack": 10,
+		"obs": false
+	},
+	{
+	  "name": "Carlos Roberto Nogueira dos Santos",
+		"crm": 52246696,
+		"specialty": ["Médico Clínico"],
+		"price": 198,					
+		"moneyInCash": 180,
+		"participative": 187,
+		"participativeInCash": 170,
+		"buyBack": 10,
+		"obs": false
+	},
+	{
+	  "name": "Caroline de Oliveira Moraes",
+		"crm": 521023950,
+		"specialty": ["Ultrasson"],
+		"price": 198,					
+		"moneyInCash": 180,
+		"participative": 187,
+		"participativeInCash": 170,
+		"buyBack": 10,
+		"obs": false
+	},
+	{
+	  "name": "Claudia Mendes da Rocha",
+		"crm": 52604314,
+		"specialty": ["Gastroenterologista", "Médico Clínico"],
+		"price": 198,					
+		"moneyInCash": 180,
+		"participative": 187,
+		"participativeInCash": 170,
+		"buyBack": 10,
+		"obs": false
+	},
+	{
+	  "name": "Clênio Gebara Basílio Junior",
+		"crm": 52428800,
+		"specialty": ["Urologista"],
+		"price": 198,					
+		"moneyInCash": 180,
+		"participative": 187,
+		"participativeInCash": 170,
+		"buyBack": 10,
+		"obs": false
+	},
+	{
+	  "name": "Damiana da Silva Jardim",
+		"crm": 52922340,
+		"specialty": ["Endocrino"],
+		"price": 198,					
+		"moneyInCash": 180,
+		"participative": 187,
+		"participativeInCash": 170,
+		"buyBack": 10,
+		"obs": false
+	},
+	{
+	  "name": "Daniel Lino Machado",
+		"crm": 521165496,
+		"specialty": ["Ultrasson"],
+		"price": 198,					
+		"moneyInCash": 180,
+		"participative": 187,
+		"participativeInCash": 170,
+		"buyBack": 10,
+		"obs": false
+	},
+	{
+	  "name": "Daniel Portela Tinoco",
+		"crm": 52957879,
+		"specialty": ["Gastro"],
+		"price": 198,					
+		"moneyInCash": 180,
+		"participative": 187,
+		"participativeInCash": 170,
+		"buyBack": 10,
+		"obs": false
+	},
+	{
+	  "name": "Douglas Fernandes de Souza",
+		"crm": 521043781,
+		"specialty": ["Cardiologista"],
+		"price": 198,					
+		"moneyInCash": 180,
+		"participative": 187,
+		"participativeInCash": 170,
+		"buyBack": 10,
+		"obs": false
+	},
+	{
+	  "name": "Eidga Maynard do Lago",
+		"crm": 52380242,
+		"specialty": ["Ginecologista"],
+		"price": 198,					
+		"moneyInCash": 180,
+		"participative": 187,
+		"participativeInCash": 170,
+		"buyBack": 10,
+		"obs": false
+	},
+	{
+	  "name": "Fábio Machado Ventura",
+		"crm": 52678465,
+		"specialty": ["Cardiologista"],
+		"price": 198,					
+		"moneyInCash": 180,
+		"participative": 187,
+		"participativeInCash": 170,
+		"buyBack": 10,
+		"obs": false
+	},
+	{
+	  "name": "Fernanda Tardelli Sanchez Tatsch",
+		"crm": 5201024310,
+		"specialty": ["Alergista"],
+		"price": 198,					
+		"moneyInCash": 180,
+		"participative": 187,
+		"participativeInCash": 170,
+		"buyBack": 10,
+		"obs": false
+	},
+	{
+	  "name": "Fernando Sá Freire de Pinho Junior",
+		"crm": 52603941,
+		"specialty": ["Cirurgião Geral"],
+		"price": 198,					
+		"moneyInCash": 180,
+		"participative": 187,
+		"participativeInCash": 170,
+		"buyBack": 10,
+		"obs": false
+	},
+	{
+	  "name": "Filipi Periard Martins",
+		"crm": 52879169,
+		"specialty": ["Ultrasson"],
+		"price": 198,					
+		"moneyInCash": 180,
+		"participative": 187,
+		"participativeInCash": 170,
+		"buyBack": 10,
+		"obs": false
+	},
+	{
+	  "name": "Frederico Adolfo Lyra",
+		"crm": 5200568414,
+		"specialty": ["Ginecologista", "Nutricionista"],
+		"price": 198,					
+		"moneyInCash": 180,
+		"participative": 187,
+		"participativeInCash": 170,
+		"buyBack": 10,
+		"obs": false
+	},
+	{
+	  "name": "Gabriela Carvalho Souza de Az Macharet",
+		"crm": 52796298,
+		"specialty": ["Ginecologista"],
+		"price": 198,					
+		"moneyInCash": 180,
+		"participative": 187,
+		"participativeInCash": 170,
+		"buyBack": 10,
+		"obs": false
+	},
+	{
+	  "name": "Heitor José Utrini Fontes",
+		"crm": 52659789,
+		"specialty": ["Cirurgião Geral"],
+		"price": 198,					
+		"moneyInCash": 180,
+		"participative": 187,
+		"participativeInCash": 170,
+		"buyBack": 10,
+		"obs": false
+	},	
+	{
+	  "name": "Helcio Zaghetto Gama",
+		"crm": 52265392,
+		"specialty": ["Ortopedia"],
+		"price": 198,					
+		"moneyInCash": 180,
+		"participative": 187,
+		"participativeInCash": 170,
+		"buyBack": 10,
+		"obs": false
+	},
+	{
+	  "name": "Iracemy Souto da Silva Junior",
+		"crm": 52763691,
+		"specialty": ["Ultrasson"],
+		"price": 198,					
+		"moneyInCash": 180,
+		"participative": 187,
+		"participativeInCash": 170,
+		"buyBack": 10,
+		"obs": false
+	},
+	{
+	  "name": "Jane Oliveira Guimarães",
+		"crm": 52531598,
+		"specialty": ["Cirurgia Geral"],
+		"price": 198,					
+		"moneyInCash": 180,
+		"participative": 187,
+		"participativeInCash": 170,
+		"buyBack": 10,
+		"obs": false
+	},
+	{
+	  "name": "Jean Allan Costa",
+		"crm": 52438571,
+		"specialty": ["Cardiologista", "Especialização em Ecocardiografia"],
+		"price": 198,					
+		"moneyInCash": 180,
+		"participative": 187,
+		"participativeInCash": 170,
+		"buyBack": 10,
+		"obs": false
+	},
+	{
+	  "name": "Joana Darc Repolês",
+		"crm": 52939358,
+		"specialty": ["Dermatologista"],
+		"price": 198,					
+		"moneyInCash": 180,
+		"participative": 187,
+		"participativeInCash": 170,
+		"buyBack": 10,
+		"obs": false
+	},
+	{
+	  "name": "José Izaí",
+		"crm": 52153494,
+		"specialty": ["Psiquiatra"],
+		"price": 198,					
+		"moneyInCash": 180,
+		"participative": 187,
+		"participativeInCash": 170,
+		"buyBack": 10,
+		"obs": false
+	},
+	{
+	  "name": "José Maurício dos Anjos Silva",
+		"crm": 52419361,
+		"specialty": ["Ginecologista", "Médico Clínico"],
+		"price": 198,					
+		"moneyInCash": 180,
+		"participative": 187,
+		"participativeInCash": 170,
+		"buyBack": 10,
+		"obs": false
+	},
+	{
+	  "name": "Kelen Gleice Lima Lemos Nascimento",
+		"crm": 52662097,
+		"specialty": ["Pediatra"],
+		"price": 198,					
+		"moneyInCash": 180,
+		"participative": 187,
+		"participativeInCash": 170,
+		"buyBack": 10,
+		"obs": false
+	},
+	{
+	  "name": "Luiz Carlos Brito de Alcantara",
+		"crm": 52656860,
+		"specialty": ["Neurologista"],
+		"price": 198,					
+		"moneyInCash": 180,
+		"participative": 187,
+		"participativeInCash": 170,
+		"buyBack": 10,
+		"obs": false
+	},
+	{
+	  "name": "Luiz Eduardo Marquez Neira",
+		"crm": 52665720,
+		"specialty": ["Ginecologista"],
+		"price": 198,					
+		"moneyInCash": 180,
+		"participative": 187,
+		"participativeInCash": 170,
+		"buyBack": 10,
+		"obs": false
+	},
+	{
+	  "name": "Luiza Elizabete de Paiva Carvalho",
+		"crm": 52420542,
+		"specialty": ["Médico Clínico"],
+		"price": 198,					
+		"moneyInCash": 180,
+		"participative": 187,
+		"participativeInCash": 170,
+		"buyBack": 10,
+		"obs": false
+	},
+	{
+	  "name": "Marcelo Chagas Tassara",
+		"crm": 52607086,
+		"specialty": ["Proctologista"],
+		"price": 198,					
+		"moneyInCash": 180,
+		"participative": 187,
+		"participativeInCash": 170,
+		"buyBack": 10,
+		"obs": false
+	},
+	{
+	  "name": "Márcia Cristina do Nasc Moreira Mattos",
+		"crm": 52599024,
+		"specialty": ["Pediatria"],
+		"price": 198,					
+		"moneyInCash": 180,
+		"participative": 187,
+		"participativeInCash": 170,
+		"buyBack": 10,
+		"obs": false
+	},
+	{
+	  "name": "Maria Helena Coutinho Centeio",
+		"crm": 52609270,
+		"specialty": ["Médico Clínico"],
+		"price": 198,					
+		"moneyInCash": 180,
+		"participative": 187,
+		"participativeInCash": 170,
+		"buyBack": 10,
+		"obs": false
+	},
+	{
+	  "name": "Mariana Parga Rodrigues",
+		"crm": 52640549,
+		"specialty": ["Endocrino"],
+		"price": 198,					
+		"moneyInCash": 180,
+		"participative": 187,
+		"participativeInCash": 170,
+		"buyBack": 10,
+		"obs": false
+	},
+	{
+	  "name": "Mauro Braga Bergamini",
+		"crm": 52869562,
+		"specialty": ["Cardiologista"],
+		"price": 198,					
+		"moneyInCash": 180,
+		"participative": 187,
+		"participativeInCash": 170,
+		"buyBack": 10,
+		"obs": false
+	},		
+	{
+	  "name": "Mayara Machado de Oliveira Cruz",
+		"crm": 52860697,
+		"specialty": ["Endocrino"],
+		"price": 198,					
+		"moneyInCash": 180,
+		"participative": 187,
+		"participativeInCash": 170,
+		"buyBack": 10,
+		"obs": false
+	},
+	{
+	  "name": "Milena Chagas Direito",
+		"crm": 52980811,
+		"specialty": ["Dermatologista"],
+		"price": 198,					
+		"moneyInCash": 180,
+		"participative": 187,
+		"participativeInCash": 170,
+		"buyBack": 10,
+		"obs": false
+	},
+	{
+	  "name": "Milena Souza da Silveira",
+		"crm": 52984949,
+		"specialty": ["Angiologista"],
+		"price": 198,					
+		"moneyInCash": 180,
+		"participative": 187,
+		"participativeInCash": 170,
+		"buyBack": 10,
+		"obs": false
+	},
+	{
+	  "name": "Osvaldo Machado Filho",
+		"crm": 52847763,
+		"specialty": ["Psiquiatra"],
+		"price": 198,					
+		"moneyInCash": 180,
+		"participative": 187,
+		"participativeInCash": 170,
+		"buyBack": 10,
+		"obs": false
+	},
+	{
+	  "name": "Otávio Silva Fonseca",
+		"crm": 52855820,
+		"specialty": ["Nefrologista"],
+		"price": 198,					
+		"moneyInCash": 180,
+		"participative": 187,
+		"participativeInCash": 170,
+		"buyBack": 10,
+		"obs": false
+	},
+	{
+	  "name": "Paula Fernanda Mello Camara",
+		"crm": 52688061,
+		"specialty": ["Ultrasson"],
+		"price": 198,					
+		"moneyInCash": 180,
+		"participative": 187,
+		"participativeInCash": 170,
+		"buyBack": 10,
+		"obs": false
+	},
+	{
+	  "name": "Raiza Rezende Evangelista dos Santos",
+		"crm": 52988430,
+		"specialty": ["Oftalmologista"],
+		"price": 198,					
+		"moneyInCash": 180,
+		"participative": 187,
+		"participativeInCash": 170,
+		"buyBack": 10,
+		"obs": false
+	},
+	{
+	  "name": "Ricardo Rezende Pereira",
+		"crm": 52596965,
+		"specialty": ["Geriatra"],
+		"price": 198,					
+		"moneyInCash": 180,
+		"participative": 187,
+		"participativeInCash": 170,
+		"buyBack": 10,
+		"obs": false
+	},
+	{
+	  "name": "Rodolfo Guia Mureb",
+		"crm": 52856185,
+		"specialty": ["Urologista"],
+		"price": 198,					
+		"moneyInCash": 180,
+		"participative": 187,
+		"participativeInCash": 170,
+		"buyBack": 10,
+		"obs": false
+	},
+	{
+	  "name": "Rodrigo Antoun Collares",
+		"crm": 52500401,
+		"specialty": ["Pediatra"],
+		"price": 198,					
+		"moneyInCash": 180,
+		"participative": 187,
+		"participativeInCash": 170,
+		"buyBack": 10,
+		"obs": false
+	},
+	{
+	  "name": "Sávio Daflon Pereira",
+		"crm": 52797529,
+		"specialty": ["Urologista"],
+		"price": 198,					
+		"moneyInCash": 180,
+		"participative": 187,
+		"participativeInCash": 170,
+		"buyBack": 10,
+		"obs": false
+	},
+	{
+	  "name": "Solange Magno da Silva Lourenço",
+		"crm": 52537075,
+		"specialty": ["Ginecologista"],
+		"price": 198,					
+		"moneyInCash": 180,
+		"participative": 187,
+		"participativeInCash": 170,
+		"buyBack": 10,
+		"obs": false
+	},
+	{
+	  "name": "Thaciana Abreu Machado Lomeu",
+		"crm": 521233050,
+		"specialty": ["Ginecologista"],
+		"price": 198,					
+		"moneyInCash": 180,
+		"participative": 187,
+		"participativeInCash": 170,
+		"buyBack": 10,
+		"obs": false
+	},
+	{
+	  "name": "Thamara Freire Souza",
+		"crm": 52957437,
+		"specialty": ["Cardiologista"],
+		"price": 198,					
+		"moneyInCash": 180,
+		"participative": 187,
+		"participativeInCash": 170,
+		"buyBack": 10,
+		"obs": false
+	},
+	{
+	  "name": "Valter Estelita dos Santos",
+		"crm": 52437459,
+		"specialty": ["Médico Clínico"],
+		"price": 198,					
+		"moneyInCash": 180,
+		"participative": 187,
+		"participativeInCash": 170,
+		"buyBack": 10,
+		"obs": false
+	},
+	{
+	  "name": "Wagner Garcia Bastos",
+		"crm": 52922765,
+		"specialty": ["Ortopedia"],
+		"price": 198,					
+		"moneyInCash": 180,
+		"participative": 187,
+		"participativeInCash": 170,
+		"buyBack": 10,
+		"obs": false
+	},
+	{
+	  "name": "Waldecir Melo",
+		"crm": 52276355,
+		"specialty": ["Otorrino"],
+		"price": 198,					
+		"moneyInCash": 180,
+		"participative": 187,
+		"participativeInCash": 170,
+		"buyBack": 10,
+		"obs": false
+	}
 ]
