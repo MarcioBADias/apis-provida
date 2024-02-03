@@ -1,716 +1,1055 @@
 [
     {
-    "category": "ultrasson",
-    "name": "Ultrasson de abdomen Total",
-    "price": 150,
-    "participative": 140,
-    "obs": false
-    },
-    {
-    "category": "ultrasson",
-    "name": "Ultrasson de mama+axilas",
-    "price": 230,
-    "participative": 220,
-    "obs": false
-    },
-    {
-    "category": "ultrasson",
-    "name": "Ultrasson Transvaginal",
-    "price": 160,
-    "participative": 150,
-    "obs": false
-    },
-    {
-    "category": "ultrasson",
-    "name": "Ultrasson Abdomen Superior",
-    "price": 150,
-    "participative": 140,
-    "obs": false
-    },
-    {
-    "category": "ultrasson",
-    "name": "Ultrasson Abdomen Inferior Masc.",
-    "price": 150,
-    "participative": 140,
-    "obs": false
-    },
-    {
-    "category": "ultrasson",
-    "name": "Ultrasson Pélvica",
-    "price": 150,
-    "participative": 140,
-    "obs": false
-    },
-    {
-    "category": "ultrasson",
-    "name": "Ultrasson de Orgão ou Estrutura Isolada",
-    "price": 150,
-    "participative": 140,
-    "obs": false
-    },
-    {
-    "category": "ultrasson",
-    "name": "Ultrasson Aparelho Urinário Masc.",
-    "price": 150,
-    "participative": 140,
-    "obs": false
-    },
-    {
-    "category": "ultrasson",
-    "name": "Ultrasson Aparelho Urinário Fem.",
-    "price": 150,
-    "participative": 140,
-    "obs": false
-    },
-    {
-    "category": "ultrasson",
-    "name": "Ultrasson Articular",
-    "price": 150,
-    "participative": 140,
-    "obs": false
-    },
-    {
-    "category": "ultrasson",
-    "name": "Ultrasson de estruturas superficiais",
-    "price": 150,
-    "participative": 140,
-    "obs": false
-    },
-    {
-    "category": "ultrasson",
-    "name": "Ultrasson de axilas (estruturas superficiais)",
-    "price": 150,
-    "participative": 140,
-    "obs": false
-    },
-    {
-    "category": "ultrasson",
-    "name": "Ultrasson de prostata",
-    "price": 150,
-    "participative": 140,
-    "obs": false
-    },
-    {
-    "category": "ultrasson",
-    "name": "Ultrasson Obstétrica Simples",
-    "price": 160,
-    "participative": 150,
-    "obs": false
-    },
-    {
-    "category": "ultrasson",
-    "name": "Ultrasson Transretal",
-    "price": 160,
-    "participative": 150,
-    "obs": false
-    },
-    {
-    "category": "ultrasson",
-    "name": "Ultrasson Obstétrico com TN",
-    "price": 190,
-    "participative": 180,
-    "obs": false
-    },
-    {
-    "category": "ultrasson",
-    "name": "Doppler Fluxo Obstétrico",
-    "price": 190,
-    "participative": 180,
-    "obs": false
-    },
-    {
-    "category": "ultrasson",
-    "name": "Ultrasson Morfológica",
-    "price": 250,
-    "participative": 240,
-    "obs": false
-    },
-    {
-    "category": "ultrasson",
-    "name": "Morfológica 2° trimestre + Transvaginal (Medição de Útero)",
-    "price": 330,
-    "participative": 320,
-    "obs": false
-    },
-    {
-    "category": "ultrasson",
-    "name": "Ecofetal",
-    "price": 260,
-    "participative": 250,
-    "obs": false
-    },
-    {
-    "category": "ultrasson",
-    "name": "Doppler colorido transfontanela",
-    "price": 160,
-    "participative": 150,
-    "obs": false
-    },
-    {
-    "category": "ultrasson",
-    "name": "Doppler de orgão ou estrutura isolada",
-    "price": 190,
-    "participative": 180,
-    "obs": false
-    },
-    {
-    "category": "ultrasson",
-    "name": "Doppler de artérias renais",
-    "price": 230,
-    "participative": 220,
-    "obs": false
-    },
-    {
-    "category": "ultrasson",
-    "name": "Doppler de artérias Uterinas",
-    "price": 190,
-    "participative": 180,
-    "obs": false
-    },
-    {
-    "category": "ultrasson",
-    "name": "Doppler venoso de MMII/MMSS",
-    "price": 190,
-    "participative": 180,
-    "obs": false
-    },
-    {
-    "category": "ultrasson",
-    "name": "Doppler arterial de MMII/MMSS",
-    "price": 190,
-    "participative": 180,
-    "obs": false
-    },
-    {
-    "category": "ultrasson",
-    "name": "Doppler veia porta(doppler hepatico)",
-    "price": 190,
-    "participative": 180,
-    "obs": false
-    },
-    {
-    "category": "ultrasson",
-    "name": "Doppler colorido de artérias viscerais",
-    "price": 230,
-    "participative": 220,
-    "obs": false
-    },
-    {
-    "category": "ultrasson",
-    "name": "Doppler colorido de vasos cervicais venosos bilateral",
-    "price": 230,
-    "participative": 220,
-    "obs": false
-    },
-    {
-    "category": "ultrasson",
-    "name": "Doppler de mama + axilas",
-    "price": 270,
-    "participative": 260,
-    "obs": false
-    },
-    {
-    "category": "ultrasson",
-    "name": "Doppler Aorta e iliacas",
-    "price": 230,
-    "participative": 220,
-    "obs": false
-    },
-    {
-    "category": "cardiologia",
-    "name": "ecocardiograma com doppler",
-    "price": 180,
-    "participative":170,
-    "obs": false
-    },
-    {
-    "category": "cardiologia",
-    "name": "MAPA",
-    "price": 140,
-    "participative": 130,
-    "obs": false
-    },
-    {
-    "category": "cardiologia",
-    "name": "eletrocardiograma",
-    "price": 55,
-    "participative": 45,
-    "obs": false
-    },
-    {
-    "category": "cardiologia",
-    "name": "Holter 24h",
-    "price": 150,
-    "participative": 140,
-    "obs": false
-    },
-    {
-    "category": "cardiologia",
-    "name": "Doppler carótidas e vertebrais",
-    "price": 230,
-    "participative": 220,
-    "obs": false
-    },
-    {
-    "category": "cardiologia",
-    "name": "Teste ergométrico",
-    "price": 220,
-    "participe": false,
-    "obs": false
-    },
-    {
-    "category": "outros",
-    "name": "Audiometria",
-    "price": 120,
-    "participative": 110,
-    "obs": false
-    },
-    {
-    "category": "outros",
-    "name": "Impendaciometria",
-    "price": 120,
-    "participative": 110,
-    "obs": false
-    },
-    {
-    "category": "outros",
-    "name": "PAC (Processamento Auditivo Central)",
-    "price": 200,
-    "participative": 190,
-    "obs": "Temporariamente não estamos realizando"
-    },
-    {
-    "category": "outros",
-    "name": "Espirometria",
-    "price": 140,
-    "participative": 130,
-    "obs": false
-    },
-    {
-    "category": "outros",
-    "name": "Colonoscopia/Vulvoscopia",
-    "price": 380,
-    "participative": false,
-    "obs": "Temporariamente não estamos realizando"
-    },
-    {
-    "category": "outros",
-    "name": "Eletroencefalograma (Rotina)",
-    "price": 160,
-    "participative": 150,
-    "obs": false
-    },
-    {
-    "category": "outros",
-    "name": "Eletroencefalograma (Mapeamento)",
-    "price": 200,
-    "participative": 190,
-    "obs": false
-    },
-    {
-    "category": "outros",
-    "name": "Eletroencefalograma (Foto Estimulação)",
-    "price": 200,
-    "participative": false,
-    "obs": false
-    },
-    {
-    "category": "outros",
-    "name": "Endoscopia nasal",
-    "price": 300,
-    "participative": false,
-    "obs": "Temporariamente não estamos realizando"
-    },
-    {
-    "category": "outros",
-    "name": "Videolaringoscopia",
-    "price": 300,
-    "participative": false,
-    "obs": "Temporariamente não estamos realizando"
-    },
-    {
-    "category": "outros",
-    "name": "Frenotomia lingual",
-    "price": 500,
-    "participative": false,
-    "obs": "Temporariamente não estamos realizando"
-    },
-    {
-    "category": "outros",
-    "name": "Aplicação de varize",
-    "price": 160,
-    "participative": false,
-    "obs": false
-    },
-    {
-    "category": "outros",
-    "name": "Peeling 1(Acne) 3 sessoes",
-    "price": 500,
-    "participative": false,
-    "obs": "Temporariamente não estamos realizando"
-    },
-    {
-    "category": "outros",
-    "name": "Peeling 2 (melanose, rejuvenescimento) 3 sessoes",
-    "price": 600,
-    "participative": false,
-    "obs": "Temporariamente não estamos realizando"
-    },
-    {
-    "category": "outros",
-    "name": "Peeling 3(melasma) 3 sessoes",
-    "price": 700,
-    "participative": false,
-    "obs": "Temporariamente não estamos realizando"
-    },
-    {
-    "category": "outros",
-    "name": "microagulhamento 1 sessão",
-    "price": 300,
-    "participative": false,
-    "obs": "Temporariamente não estamos realizando"
-    },
-    {
-    "category": "outros",
-    "name": "microagulhamento 3 sessões",
-    "price": 870,
-    "participative": false,
-    "obs": "Temporariamente não estamos realizando"
-    },
-    {
-    "category": "outros",
-    "name": "Infiltração intralesional (valor por sessão)",
-    "price": 120,
-    "participative": false,
-    "obs": "Temporariamente não estamos realizando"
-    },
-    {
-    "category": "outros",
-    "name": "Infiltração articular",
-    "price": 130,
-    "participative": false,
-    "obs": "Ortopedia - Dr Wagner Bastos"
-    },
-    {
-    "category": "outros",
-    "name": "Punção articular(água no joelho)",
-    "price": 240,
-    "participative": false,
-    "obs": "Temporariamente não estamos realizando"
-    },
-    {
-    "category": "outros",
-    "name": "Teste da orelhinha",
-    "price": 120,
-    "participative": false,
-    "obs": "Cristiane"
-    },
-    {
-    "category": "outros",
-    "name": "Teste da linguinha",
-    "price": 120,
-    "participative": false,
-    "obs": "Cristiane"
-    },
-    {
-    "category": "outros",
-    "name": "Teste da orelhinha + linguinha",
-    "price": 200,
-    "participative": false,
-    "obs": "Cristiane"
-    },
-    {
-    "category": "outros",
-    "name": "Cirurgia mini",
-    "price": 190,
-    "participative": false,
-    "obs": "Consultar Médicos"
-    },
-    {
-    "category": "outros",
-    "name": "Cirurgia pequeno porte",
-    "price": 300,
-    "participative": false,
-    "obs": "Consultar Médicos"
-    },
-    {
-    "category": "outros",
-    "name": "Cirurgia médio porte",
-    "price": 380,
-    "participative": false,
-    "obs": "Consultar Médicos"
-    },
-    {
-    "category": "outros",
-    "name": "Cirurgia grande porte",
-    "price": 570,
-    "participative": false,
-    "obs": "Cirurgia grande porte"
-    },
-    {
-    "category": "outros",
-    "name": "Cirurgia maxi porte",
-    "price": 670,
-    "participative": false,
-    "obs": "Consultar Médicos"
-    },
-    {
-    "category": "Raio X",
-    "name": "RX Abdomen Agudo",
-    "price": 160,
-    "participative": 150,
-    "obs": false
-    },
-    {
-    "category": "Raio X",
-    "name": "RX Abdomen Simples",
-    "price": 80,
-    "participative": 65,
-    "obs": false
-    },
-    {
-    "category": "Raio X",
-    "name": "RX Articulação Acromio-Clavicular",
-    "price": 80,
-    "participative": 65,
-    "obs": false
-    },
-    {
-    "category": "Raio X",
-    "name": "RX Articulação Esterno-Clavicular",
-    "price": 80,
-    "participative": 65,
-    "obs": false
-    },
-    {
-    "category": "Raio X",
-    "name": "RX Articulações Sacro-Ilíacas",
-    "price": 80,
-    "participative": 65,
-    "obs": false
-    },
-    {
-    "category": "Raio X",
-    "name": "RX Articulação Coxo-Femural",
-    "price": 80,
-    "participative": 65,
-    "obs": false
-    },
-    {
-    "category": "Raio X",
-    "name": "RX Bacia",
-    "price": 80,
-    "participative": 65,
-    "obs": "Quando consta dupla abdução cobrar 2 exames."
-    },
-    {
-    "category": "Raio X",
-    "name": "RX Braço",
-    "price": 80,
-    "participative": 65,
-    "obs": false
-    },
-    {
-    "category": "Raio X",
-    "name": "RX Calcaneo (E/D)",
-    "price": 80,
-    "participative": 65,
-    "obs": false
-    },
-    {
-    "category": "Raio X",
-    "name": "RX Cavum",
-    "price": 80,
-    "participative": 65,
-    "obs": false
-    },
-    {
-    "category": "Raio X",
-    "name": "RX Clavicula",
-    "price": 80,
-    "participative": 65,
-    "obs": false
-    },
-    {
-    "category": "Raio X",
-    "name": "RX Coluna Cervical",
-    "price": 80,
-    "participative": 65,
-    "obs": false
-    },
-    {
-    "category": "Raio X",
-    "name": "RX Coluna Dorsal",
-    "price": 80,
-    "participative": 65,
-    "obs": false
-    },
-    {
-    "category": "Raio X",
-    "name": "RX Coluna Lombar",
-    "price": 80,
-    "participative": 65,
-    "obs": false
-    },
-    {
-    "category": "Raio X",
-    "name": "RX Coluna Sacro-Cóccix",
-    "price": 80,
-    "participative": 65,
-    "obs": false
-    },
-    {
-    "category": "Raio X",
-    "name": "RX Coluna Total Panorâmica",
-    "price": 200,
-    "participative": 190,
-    "obs": false
-    },
-    {
-    "category": "Raio X",
-    "name": "RX Costela (por hemitorax)",
-    "price": 80,
-    "participative": 65,
-    "obs": false
-    },
-    {
-    "category": "Raio X",
-    "name": "RX Cotovelo (D/E)",
-    "price": 80,
-    "participative": 65,
-    "obs": false
-    },
-    {
-    "category": "Raio X",
-    "name": "RX Coxa (D/E)",
-    "price": 80,
-    "participative": 65,
-    "obs": false
-    },
-    {
-    "category": "Raio X",
-    "name": "RX Crânio",
-    "price": 80,
-    "participative": 65,
-    "obs": false
-    },
-    {
-    "category": "Raio X",
-    "name": "RX Escanometria",
-    "price": 150,
-    "participative": 140,
-    "obs": false
-    },
-    {
-    "category": "Raio X",
-    "name": "RX Esofago / RX contrastado",
-    "price": 700,
-    "participative": false,
-    "obs": false
-    },
-    {
-    "category": "Raio X",
-    "name": "RX Esterno",
-    "price": 80,
-    "participative": 65,
-    "obs": false
-    },
-    {
-    "category": "Raio X",
-    "name": "RX Histerossalpingografia",
-    "price": 2500,
-    "participative": false,
-    "obs": false
-    },
-    {
-    "category": "Raio X",
-    "name": "RX Joelho (D/E)",
-    "price": 80,
-    "participative": 65,
-    "obs": false
-    },
-    {
-    "category": "Raio X",
-    "name": "RX Mamografia",
-    "price": 100,
-    "participative": 90,
-    "obs": false
-    },
-    {
-    "category": "Raio X",
-    "name": "RX Mão",
-    "price": 80,
-    "participative": 65,
-    "obs": false
-    },
-    {
-    "category": "Raio X",
-    "name": "RX Mãos e Punhos para idade ossea",
-    "price": 80,
-    "participative": 65,
-    "obs": "Cobrar dois exames"
-    },
-    {
-    "category": "Raio X",
-    "name": "RX Ombro (D/E)",
-    "price": 80,
-    "participative": 65,
-    "obs": false
-    },
-    {
-    "category": "Raio X",
-    "name": "RX Panoramica de membros inferiores",
-    "price": 150,
-    "participative": 140,
-    "obs": false
-    },
-    {
-    "category": "Raio X",
-    "name": "RX Pé (D/E)",
-    "price": 80,
-    "participative": 65,
-    "obs": false
-    },
-    {
-    "category": "Raio X",
-    "name": "RX Perna",
-    "price": 80,
-    "participative": 65,
-    "obs": false
-    },
-    {
-    "category": "Raio X",
-    "name": "RX Punho",
-    "price": 80,
-    "participative": 65,
-    "obs": false
-    },
-    {
-    "category": "Raio X",
-    "name": "RX Seios da Face",
-    "price": 80,
-    "participative": 65,
-    "obs": false
-    },
-    {
-    "category": "Raio X",
-    "name": "RX Torax PA e Perfil",
-    "price": 80,
-    "participative": 65,
-    "obs": false
-    },
-    {
-    "category": "Raio X",
-    "name": "RX Tornozelo (D/E)",
-    "price": 80,
-    "participative": 65,
-    "obs": false
-    },
-    {
-    "category": "Raio X",
-    "name": "RX Uretrocistografia",
-    "price": 900,
-    "participative": false,
-    "obs": false
+        "category": "ultrasson",
+        "name": "Ultrasson de abdomen Total",
+        "price": 150,
+        "participative": 140,
+        "convenio": ["Amil", "Cassi", "Notredame", "Petrobras", "SulAmerica"],
+        "cod": 40901122,
+        "obs": false
+    },
+    {
+        "category": "ultrasson",
+        "name": "Ultrasson de mama+axilas",
+        "price": 230,
+        "participative": 220,
+        "convenio": ["Amil", "Cassi", "Notredame", "Petrobras", "SulAmerica"],
+        "cod": 40901114,
+        "obs": false
+    },
+    {
+        "category": "ultrasson",
+        "name": "Ultrasson Transvaginal",
+        "price": 160,
+        "participative": 150,
+        "convenio": ["Amil", "Cassi", "Notredame", "Petrobras", "SulAmerica"],
+        "cod": 40901300,
+        "obs": false
+    },
+    {
+        "category": "ultrasson",
+        "name": "Ultrasson Abdomen Superior",
+        "price": 150,
+        "participative": 140,
+        "convenio": ["Amil", "Cassi", "Notredame", "Petrobras", "SulAmerica"],
+        "cod": 40901130,
+        "obs": false
+    },
+    {
+        "category": "ultrasson",
+        "name": "Ultrasson Abdomen Inferior Masc.",
+        "price": 150,
+        "participative": 140,
+        "convenio": ["Cassi", "Notredame"],
+        "cod": 40901173,
+        "obs": "Prostata da Amil, Pretrobas, Notridame"
+    },
+    {
+        "category": "ultrasson",
+        "name": "Ultrasson Pélvica",
+        "price": 150,
+        "participative": 140,
+        "convenio": [],
+        "cod": false,
+        "obs": false
+    },
+    {
+        "category": "ultrasson",
+        "name": "Ultrasson de Orgão ou Estrutura Isolada",
+        "price": 150,
+        "participative": 140,
+        "convenio": ["Amil", "Cassi", "Notredame", "Petrobras", "SulAmerica"],
+        "cod": 40901203,
+        "obs": false
+    },
+    {
+        "category": "ultrasson",
+        "name": "Ultrasson Aparelho Urinário Masc.",
+        "price": 150,
+        "participative": 140,
+        "convenio": [],
+        "cod": false,
+        "obs": false
+    },
+    {
+        "category": "ultrasson",
+        "name": "Ultrasson Aparelho Urinário Fem.",
+        "price": 150,
+        "participative": 140,
+        "convenio": [],
+        "cod": false,
+        "obs": false
+    },
+    {
+        "category": "ultrasson",
+        "name": "Ultrasson Articular",
+        "price": 150,
+        "participative": 140,
+        "convenio": [],
+        "cod": false,
+        "obs": false
+    },
+    {
+        "category": "ultrasson",
+        "name": "Ultrasson de estruturas superficiais",
+        "price": 150,
+        "participative": 140,
+        "convenio": [],
+        "cod": false,
+        "obs": false
+    },
+    {
+        "category": "ultrasson",
+        "name": "Ultrasson de axilas (estruturas superficiais)",
+        "price": 150,
+        "participative": 140,
+        "convenio": [],
+        "cod": false,
+        "obs": false
+    },
+    {
+        "category": "ultrasson",
+        "name": "Ultrasson de prostata",
+        "price": 150,
+        "participative": 140,
+        "convenio": [],
+        "cod": false,
+        "obs": false
+    },
+    {
+        "category": "ultrasson",
+        "name": "Ultrasson Obstétrica Simples",
+        "price": 160,
+        "participative": 150,
+        "convenio": [],
+        "cod": false,
+        "obs": false
+    },
+    {
+        "category": "ultrasson",
+        "name": "Ultrasson Transretal",
+        "price": 160,
+        "participative": 150,
+        "convenio": [],
+        "cod": false,
+        "obs": false
+    },
+    {
+        "category": "ultrasson",
+        "name": "Ultrasson Obstétrico com TN",
+        "price": 190,
+        "participative": 180,
+        "convenio": [],
+        "cod": false,
+        "obs": false
+    },
+    {
+        "category": "ultrasson",
+        "name": "Doppler Fluxo Obstétrico",
+        "price": 190,
+        "participative": 180,
+        "convenio": [],
+        "cod": false,
+        "obs": false
+    },
+    {
+        "category": "ultrasson",
+        "name": "Ultrasson Morfológica",
+        "price": 250,
+        "participative": 240,
+        "convenio": [],
+        "cod": false,
+        "obs": false
+    },
+    {
+        "category": "ultrasson",
+        "name": "Morfológica 2° trimestre + Transvaginal (Medição de Útero)",
+        "price": 330,
+        "participative": 320,
+        "convenio": [],
+        "cod": false,
+        "obs": false
+    },
+    {
+        "category": "ultrasson",
+        "name": "Ecofetal",
+        "price": 260,
+        "participative": 250,
+        "convenio": [],
+        "cod": false,
+        "obs": false
+    },
+    {
+        "category": "ultrasson",
+        "name": "Doppler colorido transfontanela",
+        "price": 160,
+        "participative": 150,
+        "convenio": [],
+        "cod": false,
+        "obs": false
+    },
+    {
+        "category": "ultrasson",
+        "name": "Doppler de orgão ou estrutura isolada",
+        "price": 190,
+        "participative": 180,
+        "convenio": [],
+        "cod": false,
+        "obs": false
+    },
+    {
+        "category": "ultrasson",
+        "name": "Doppler de artérias renais",
+        "price": 230,
+        "participative": 220,
+        "convenio": [],
+        "cod": false,
+        "obs": false
+    },
+    {
+        "category": "ultrasson",
+        "name": "Doppler de artérias Uterinas",
+        "price": 190,
+        "participative": 180,
+        "convenio": [],
+        "cod": false,
+        "obs": false
+    },
+    {
+        "category": "ultrasson",
+        "name": "Doppler venoso de MMII/MMSS",
+        "price": 190,
+        "participative": 180,
+        "convenio": [],
+        "cod": false,
+        "obs": false
+    },
+    {
+        "category": "ultrasson",
+        "name": "Doppler arterial de MMII/MMSS",
+        "price": 190,
+        "participative": 180,
+        "convenio": [],
+        "cod": false,
+        "obs": false
+    },
+    {
+        "category": "ultrasson",
+        "name": "Doppler veia porta(doppler hepatico)",
+        "price": 190,
+        "participative": 180,
+        "convenio": [],
+        "cod": false,
+        "obs": false
+    },
+    {
+        "category": "ultrasson",
+        "name": "Doppler colorido de artérias viscerais",
+        "price": 230,
+        "participative": 220,
+        "convenio": [],
+        "cod": false,
+        "obs": false
+    },
+    {
+        "category": "ultrasson",
+        "name": "Doppler colorido de vasos cervicais venosos bilateral",
+        "price": 230,
+        "participative": 220,
+        "convenio": [],
+        "cod": false,
+        "obs": false
+    },
+    {
+        "category": "ultrasson",
+        "name": "Doppler de mama + axilas",
+        "price": 270,
+        "participative": 260,
+        "convenio": [],
+        "cod": false,
+        "obs": false
+    },
+    {
+        "category": "ultrasson",
+        "name": "Doppler Aorta e iliacas",
+        "price": 230,
+        "participative": 220,
+        "convenio": [],
+        "cod": false,
+        "obs": false
+    },
+    {
+        "category": "cardiologia",
+        "name": "ecocardiograma com doppler",
+        "price": 180,
+        "participative":170,
+        "convenio": [],
+        "cod": false,
+        "obs": false
+    },
+    {
+        "category": "cardiologia",
+        "name": "MAPA",
+        "price": 140,
+        "participative": 130,
+        "convenio": [],
+        "cod": false,
+        "obs": false
+    },
+    {
+        "category": "cardiologia",
+        "name": "eletrocardiograma",
+        "price": 55,
+        "participative": 45,
+        "convenio": [],
+        "cod": false,
+        "obs": false
+    },
+    {
+        "category": "cardiologia",
+        "name": "Holter 24h",
+        "price": 150,
+        "participative": 140,
+        "convenio": [],
+        "cod": false,
+        "obs": false
+    },
+    {
+        "category": "cardiologia",
+        "name": "Doppler carótidas e vertebrais",
+        "price": 230,
+        "participative": 220,
+        "convenio": [],
+        "cod": false,
+        "obs": false
+    },
+    {
+        "category": "cardiologia",
+        "name": "Teste ergométrico",
+        "price": 220,
+        "participe": false,
+        "convenio": [],
+        "cod": false,
+        "obs": false
+    },
+    {
+        "category": "outros",
+        "name": "Audiometria",
+        "price": 120,
+        "participative": 110,
+        "convenio": [],
+        "cod": false,
+        "obs": false
+    },
+    {
+        "category": "outros",
+        "name": "Impendaciometria",
+        "price": 120,
+        "participative": 110,
+        "convenio": [],
+        "cod": false,
+        "obs": false
+    },
+    {
+        "category": "outros",
+        "name": "PAC (Processamento Auditivo Central)",
+        "price": 200,
+        "participative": 190,
+        "convenio": [],
+        "cod": false,
+        "obs": "Temporariamente não estamos realizando"
+    },
+    {
+        "category": "outros",
+        "name": "Espirometria",
+        "price": 140,
+        "participative": 130,
+        "convenio": [],
+        "cod": false,
+        "obs": false
+    },
+    {
+        "category": "outros",
+        "name": "Colonoscopia/Vulvoscopia",
+        "price": 380,
+        "participative": false,
+        "convenio": [],
+        "cod": false,
+        "obs": "Temporariamente não estamos realizando"
+    },
+    {
+        "category": "outros",
+        "name": "Eletroencefalograma (Rotina)",
+        "price": 160,
+        "participative": 150,
+        "convenio": [],
+        "cod": false,
+        "obs": false
+    },
+    {
+        "category": "outros",
+        "name": "Eletroencefalograma (Mapeamento)",
+        "price": 200,
+        "participative": 190,
+        "convenio": [],
+        "cod": false,
+        "obs": false
+    },
+    {
+        "category": "outros",
+        "name": "Eletroencefalograma (Foto Estimulação)",
+        "price": 200,
+        "participative": false,
+        "convenio": [],
+        "cod": false,
+        "obs": false
+    },
+    {
+        "category": "outros",
+        "name": "Endoscopia nasal",
+        "price": 300,
+        "participative": false,
+        "convenio": [],
+        "cod": false,
+        "obs": "Temporariamente não estamos realizando"
+    },
+    {
+        "category": "outros",
+        "name": "Videolaringoscopia",
+        "price": 300,
+        "participative": false,
+        "convenio": [],
+        "cod": false,
+        "obs": "Temporariamente não estamos realizando"
+    },
+    {
+        "category": "outros",
+        "name": "Frenotomia lingual",
+        "price": 500,
+        "participative": false,
+        "convenio": [],
+        "cod": false,
+        "obs": "Temporariamente não estamos realizando"
+    },
+    {
+        "category": "outros",
+        "name": "Aplicação de varize",
+        "price": 160,
+        "participative": false,
+        "convenio": [],
+        "cod": false,
+        "obs": false
+    },
+    {
+        "category": "outros",
+        "name": "Peeling 1(Acne) 3 sessoes",
+        "price": 500,
+        "participative": false,
+        "convenio": [],
+        "cod": false,
+        "obs": "Temporariamente não estamos realizando"
+    },
+    {
+        "category": "outros",
+        "name": "Peeling 2 (melanose, rejuvenescimento) 3 sessoes",
+        "price": 600,
+        "participative": false,
+        "convenio": [],
+        "cod": false,
+        "obs": "Temporariamente não estamos realizando"
+    },
+    {
+        "category": "outros",
+        "name": "Peeling 3(melasma) 3 sessoes",
+        "price": 700,
+        "participative": false,
+        "convenio": [],
+        "cod": false,
+        "obs": "Temporariamente não estamos realizando"
+    },
+    {
+        "category": "outros",
+        "name": "microagulhamento 1 sessão",
+        "price": 300,
+        "participative": false,
+        "convenio": [],
+        "cod": false,
+        "obs": "Temporariamente não estamos realizando"
+    },
+    {
+        "category": "outros",
+        "name": "microagulhamento 3 sessões",
+        "price": 870,
+        "participative": false,
+        "convenio": [],
+        "cod": false,
+        "obs": "Temporariamente não estamos realizando"
+    },
+    {
+        "category": "outros",
+        "name": "Infiltração intralesional (valor por sessão)",
+        "price": 120,
+        "participative": false,
+        "convenio": [],
+        "cod": false,
+        "obs": "Temporariamente não estamos realizando"
+    },
+    {
+        "category": "outros",
+        "name": "Infiltração articular",
+        "price": 130,
+        "participative": false,
+        "convenio": [],
+        "cod": false,
+        "obs": "Ortopedia - Dr Wagner Bastos"
+    },
+    {
+        "category": "outros",
+        "name": "Punção articular(água no joelho)",
+        "price": 240,
+        "participative": false,
+        "convenio": [],
+        "cod": false,
+        "obs": "Temporariamente não estamos realizando"
+    },
+    {
+        "category": "outros",
+        "name": "Teste da orelhinha",
+        "price": 120,
+        "participative": false,
+        "convenio": [],
+        "cod": false,
+        "obs": "Cristiane"
+    },
+    {
+        "category": "outros",
+        "name": "Teste da linguinha",
+        "price": 120,
+        "participative": false,
+        "convenio": [],
+        "cod": false,
+        "obs": "Cristiane"
+    },
+    {
+        "category": "outros",
+        "name": "Teste da orelhinha + linguinha",
+        "price": 200,
+        "participative": false,
+        "convenio": [],
+        "cod": false,
+        "obs": "Cristiane"
+    },
+    {
+        "category": "outros",
+        "name": "Cirurgia mini",
+        "price": 190,
+        "participative": false,
+        "convenio": [],
+        "cod": false,
+        "obs": "Consultar Médicos"
+    },
+    {
+        "category": "outros",
+        "name": "Cirurgia pequeno porte",
+        "price": 300,
+        "participative": false,
+        "convenio": [],
+        "cod": false,
+        "obs": "Consultar Médicos"
+    },
+    {
+        "category": "outros",
+        "name": "Cirurgia médio porte",
+        "price": 380,
+        "participative": false,
+        "convenio": [],
+        "cod": false,
+        "obs": "Consultar Médicos"
+    },
+    {
+        "category": "outros",
+        "name": "Cirurgia grande porte",
+        "price": 570,
+        "participative": false,
+        "convenio": [],
+        "cod": false,
+        "obs": "Cirurgia grande porte"
+    },
+    {
+        "category": "outros",
+        "name": "Cirurgia maxi porte",
+        "price": 670,
+        "participative": false,
+        "convenio": [],
+        "cod": false,
+        "obs": "Consultar Médicos"
+    },
+    {
+        "category": "Raio X",
+        "name": "RX Abdomen Agudo",
+        "price": 160,
+        "participative": 150,
+        "convenio": [],
+        "cod": 40808025,
+        "obs": false
+    },
+    {
+        "category": "Raio X",
+        "name": "RX Abdomen Simples",
+        "price": 80,
+        "participative": 65,
+        "convenio": [],
+        "cod": 40808017,
+        "obs": false
+    },
+    {
+        "category": "Raio X",
+        "name": "RX Articulação Acromio-Clavicular",
+        "price": 80,
+        "participative": 65,
+        "convenio": [],
+        "cod": 40803066,
+        "obs": false
+    },
+    {
+        "category": "Raio X",
+        "name": "RX Articulação Esterno-Clavicular",
+        "price": 80,
+        "participative": 65,
+        "convenio": [],
+        "cod": 40803023,
+        "obs": false
+    },
+    {
+        "category": "Raio X",
+        "name": "RX Articulações Sacro-Ilíacas",
+        "price": 80,
+        "participative": 65,
+        "convenio": [],
+        "cod": 40804020,
+        "obs": false
+    },
+    {
+        "category": "Raio X",
+        "name": "RX Articulação Coxo-Femural",
+        "price": 80,
+        "participative": 65,
+        "convenio": [],
+        "cod": 40804038,
+        "obs": false
+    },
+    {
+        "category": "Raio X",
+        "name": "RX Bacia",
+        "price": 80,
+        "participative": 65,
+        "convenio": [],
+        "cod": 40804011,
+        "obs": "Quando consta dupla abdução cobrar 2 exames."
+    },
+    {
+        "category": "Raio X",
+        "name": "RX Braço",
+        "price": 80,
+        "participative": 65,
+        "convenio": [],
+        "cod": 40803082,
+        "obs": false
+    },
+    {
+        "category": "Raio X",
+        "name": "RX Calcaneo (E/D)",
+        "price": 80,
+        "participative": 65,
+        "convenio": [],
+        "cod": 40804100,
+        "obs": false
+    },
+    {
+        "category": "Raio X",
+        "name": "RX Cavum",
+        "price": 80,
+        "participative": 65,
+        "convenio": [],
+        "cod": 40801128,
+        "obs": false
+    },
+    {
+        "category": "Raio X",
+        "name": "RX Clavicula",
+        "price": 80,
+        "participative": 65,
+        "convenio": [],
+        "cod": 40803040,
+        "obs": false
+    },
+    {
+        "category": "Raio X",
+        "name": "RX Coluna Cervical",
+        "price": 80,
+        "participative": 65,
+        "convenio": [],
+        "cod": 40802019,
+        "obs": false
+    },
+    {
+        "category": "Raio X",
+        "name": "RX Coluna Dorsal",
+        "price": 80,
+        "participative": 65,
+        "convenio": [],
+        "cod": 40802035,
+        "obs": false
+    },
+    {
+        "category": "Raio X",
+        "name": "RX Coluna Lombar",
+        "price": 80,
+        "participative": 65,
+        "convenio": [],
+        "cod": 40802051,
+        "obs": false
+    },
+    {
+        "category": "Raio X",
+        "name": "RX Coluna Sacro-Cóccix",
+        "price": 80,
+        "participative": 65,
+        "convenio": [],
+        "cod": false,
+        "obs": false
+    },
+    {
+        "category": "Raio X",
+        "name": "RX Coluna Total Panorâmica",
+        "price": 200,
+        "participative": 190,
+        "convenio": [],
+        "cod": false,
+        "obs": false
+    },
+    {
+        "category": "Raio X",
+        "name": "RX Costela (por hemitorax)",
+        "price": 80,
+        "participative": 65,
+        "convenio": [],
+        "cod": 40803031,
+        "obs": false
+    },
+    {
+        "category": "Raio X",
+        "name": "RX Cotovelo (D/E)",
+        "price": 80,
+        "participative": 65,
+        "convenio": [],
+        "cod": 40803090,
+        "obs": false
+    },
+    {
+        "category": "Raio X",
+        "name": "RX Coxa (D/E)",
+        "price": 80,
+        "participative": 65,
+        "convenio": [],
+        "cod": 40804046,
+        "obs": false
+    },
+    {
+        "category": "Raio X",
+        "name": "RX Crânio",
+        "price": 80,
+        "participative": 65,
+        "convenio": [],
+        "cod": 40801012,
+        "obs": false
+    },
+    {
+        "category": "Raio X",
+        "name": "RX Escanometria",
+        "price": 150,
+        "participative": 140,
+        "convenio": [],
+        "cod": 40804119,
+        "obs": false
+    },
+    {
+        "category": "Raio X",
+        "name": "RX Esofago / RX contrastado",
+        "price": 700,
+        "participative": false,
+        "convenio": [],
+        "cod": 40806030,
+        "obs": false
+    },
+    {
+        "category": "Raio X",
+        "name": "RX Esterno",
+        "price": 80,
+        "participative": 65,
+        "convenio": [],
+        "cod": 40803015,
+        "obs": false
+    },
+    {
+        "category": "Raio X",
+        "name": "RX Histerossalpingografia",
+        "price": 2500,
+        "participative": false,
+        "convenio": [],
+        "cod": false,
+        "obs": false
+    },
+    {
+        "category": "Raio X",
+        "name": "RX Joelho (D/E)",
+        "price": 80,
+        "participative": 65,
+        "convenio": [],
+        "cod": 40804054,
+        "obs": "Cobrar Dois exames quando for com carga"
+    },
+    {
+        "category": "Raio X",
+        "name": "RX Mamografia",
+        "price": 100,
+        "participative": 90,
+        "convenio": [],
+        "cod": 40808041,
+        "obs": false
+    },
+    {
+        "category": "Raio X",
+        "name": "RX Mão",
+        "price": 80,
+        "participative": 65,
+        "convenio": [],
+        "cod": 40803120,
+        "obs": false
+    },
+    {
+        "category": "Raio X",
+        "name": "RX Mãos e Punhos para idade ossea",
+        "price": 80,
+        "participative": 65,
+        "convenio": [],
+        "cod": 40803139,
+        "obs": "Cobrar dois exames"
+    },
+    {
+        "category": "Raio X",
+        "name": "RX Ombro (D/E)",
+        "price": 80,
+        "participative": 65,
+        "convenio": [],
+        "cod": false,
+        "obs": false
+    },
+    {
+        "category": "Raio X",
+        "name": "RX Panoramica de membros inferiores",
+        "price": 150,
+        "participative": 140,
+        "convenio": [],
+        "cod": false,
+        "obs": false
+    },
+    {
+        "category": "Raio X",
+        "name": "RX Pé (D/E)",
+        "price": 80,
+        "participative": 65,
+        "convenio": [],
+        "cod": 40804097,
+        "obs": false
+    },
+    {
+        "category": "Raio X",
+        "name": "RX Perna",
+        "price": 80,
+        "participative": 65,
+        "convenio": [],
+        "cod": 40804070,
+        "obs": false
+    },
+    {
+        "category": "Raio X",
+        "name": "RX Punho",
+        "price": 80,
+        "participative": 65,
+        "convenio": [],
+        "cod": 40803112,
+        "obs": false
+    },
+    {
+        "category": "Raio X",
+        "name": "RX Seios da Face",
+        "price": 80,
+        "participative": 65,
+        "convenio": [],
+        "cod": 40801063,
+        "obs": false
+    },
+    {
+        "category": "Raio X",
+        "name": "RX Torax PA e Perfil",
+        "price": 80,
+        "participative": 65,
+        "convenio": [],
+        "cod": 40805026,
+        "obs": false
+    },
+    {
+        "category": "Raio X",
+        "name": "RX Tornozelo (D/E)",
+        "price": 80,
+        "participative": 65,
+        "convenio": [],
+        "cod": 40804089,
+        "obs": false
+    },
+    {
+        "category": "Raio X",
+        "name": "RX Uretrocistografia",
+        "price": 900,
+        "participative": false,
+        "convenio": [],
+        "cod": false,
+        "obs": false
+    },
+    {
+        "category": "TC",
+        "name": "TC Crânio ou sela túrcica ou órbitais",
+        "price": 440,
+        "participative": 374,
+        "convenio": [],
+        "cod": 41001010,
+        "obs": false
+    },
+    {
+        "category": "TC",
+        "name": "TC Coluna cervical, dorsal, lombar ou lombo-sacra",
+        "price": 440,
+        "participative": 374,
+        "convenio": [],
+        "cod": 41001125,
+        "obs": "Cada exame"
+    },
+    {
+        "category": "TC",
+        "name": "TC Torax",
+        "price": 500,
+        "participative": 425,
+        "convenio": [],
+        "cod": 41001079,
+        "obs": false
+    },
+    {
+        "category": "TC",
+        "name": "TC Abdomen Superior",
+        "price": 440,
+        "participative": 374,
+        "convenio": [],
+        "cod": false,
+        "obs": 41001109
+    },
+    {
+        "category": "TC",
+        "name": "TC Abdome Total",
+        "price": 660,
+        "participative": 561,
+        "convenio": [],
+        "cod": 41001095,
+        "obs": false
+    },
+    {
+        "category": "TC",
+        "name": "TC Articulação (Esternoclavicular, ombro, cotovelo, punho ou sacroiliacas ou coxofemural)",
+        "price": 500,
+        "participative": 425,
+        "convenio": [],
+        "cod": 41001141,
+        "obs": false
+    },
+    {
+        "category": "TC",
+        "name": "TC Vias urinárias (urotomografia)",
+        "price": 660,
+        "participative": 561,
+        "convenio": [],
+        "cod": 41001362,
+        "obs": false
+    },
+    {
+        "category": "TC",
+        "name": "TC Mastóides ou orelhas",
+        "price": 440,
+        "participative": 374,
+        "convenio": [],
+        "cod": 41001028,
+        "obs": false
+    },
+    {
+        "category": "TC",
+        "name": "TC Face ou seios da face",
+        "price": 440,
+        "participative": 374,
+        "convenio": [],
+        "cod": 41001036,
+        "obs": false
+    },
+    {
+        "category": "TC",
+        "name": "TC Articulações Temporomandibulares",
+        "price": 440,
+        "participative": 374,
+        "convenio": [],
+        "cod": 41001044,
+        "obs": false
+    },
+    {
+        "category": "TC",
+        "name": "TC Pescoço (partes moles, laringe, tireóide, laringe, faringe e glândulas salivares)",
+        "price": 500,
+        "participative": 425,
+        "convenio": [],
+        "cod": 41001060,
+        "obs": false
+    },
+    {
+        "category": "TC",
+        "name": "TC Pelve ou bacia",
+        "price": 500,
+        "participative": 425,
+        "convenio": [],
+        "cod": 41001127,
+        "obs": false
+    },
+    {
+        "category": "TC",
+        "name": "TC Mandibular",
+        "price": 440,
+        "participative": 374,
+        "convenio": [],
+        "cod": 41001273,
+        "obs": false
+    },
+    {
+        "category": "TC",
+        "name": "TC Maxilar",
+        "price": 440,
+        "participative": 374,
+        "convenio": [],
+        "cod": 41001281,
+        "obs": false
+    },
+    {
+        "category": "TC",
+        "name": "TC Segmento apendicular(Braço, antebraço, mão, coxa, perna ou pé) unilateral",
+        "price": 500,
+        "participative": 425,
+        "convenio": [],
+        "cod": 41001150,
+        "obs": false
     }
 ]
