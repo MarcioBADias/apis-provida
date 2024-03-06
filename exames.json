@@ -380,15 +380,6 @@
     {
         "category": "outros",
         "name": "Eletroencefalograma (Rotina)",
-        "price": 160,
-        "participative": 150,
-        "convenio": [],
-        "cod": false,
-        "obs": false
-    },
-    {
-        "category": "outros",
-        "name": "Eletroencefalograma (Mapeamento)",
         "price": 200,
         "participative": 190,
         "convenio": [],
@@ -397,9 +388,18 @@
     },
     {
         "category": "outros",
+        "name": "Eletroencefalograma (Mapeamento)",
+        "price": 250,
+        "participative": 240,
+        "convenio": [],
+        "cod": false,
+        "obs": false
+    },
+    {
+        "category": "outros",
         "name": "Eletroencefalograma (Foto Estimulação)",
-        "price": 200,
-        "participative": false,
+        "price": 250,
+        "participative": 240,
         "convenio": [],
         "cod": false,
         "obs": false
@@ -516,7 +516,7 @@
         "category": "outros",
         "name": "Teste da orelhinha",
         "price": 120,
-        "participative": false,
+        "participative": 100,
         "convenio": [],
         "cod": false,
         "obs": "Cristiane"
@@ -525,7 +525,7 @@
         "category": "outros",
         "name": "Teste da linguinha",
         "price": 120,
-        "participative": false,
+        "participative": 100,
         "convenio": [],
         "cod": false,
         "obs": "Cristiane"
@@ -1051,5 +1051,122 @@
         "convenio": [],
         "cod": 41001150,
         "obs": false
+    },
+    {
+        "category": "outros",
+        "name": "Teste Alérgico (Camarão)",
+        "price": 70,
+        "participative": false,
+        "convenio": [],
+        "cod": false,
+        "obs": "Dra. Fernanda"
+    },
+    {
+        "category": "outros",
+        "name": "Teste Alérgico (Leite)",
+        "price": 70,
+        "participative": false,
+        "convenio": [],
+        "cod": false,
+        "obs": "Dra. Fernanda"
+    },
+    {
+        "category": "outros",
+        "name": "Teste Alérgico (Ovo)",
+        "price": 80,
+        "participative": false,
+        "convenio": [],
+        "cod": false,
+        "obs": "Dra. Fernanda"
+    },
+    {
+        "category": "outros",
+        "name": "Teste Alérgico (Mosquito)",
+        "price": 70,
+        "participative": false,
+        "convenio": [],
+        "cod": false,
+        "obs": "Dra. Fernanda"
+    },
+    {
+        "category": "outros",
+        "name": "Teste Alérgico (Ácaro, cãos e gatos) - Aeroalergenos",
+        "price": 200,
+        "participative": false,
+        "convenio": [],
+        "cod": false,
+        "obs": "Dra. Fernanda"
+    },
+    {
+        "category": "outros",
+        "name": "Imunoterapia para inalantes  / Vacina para Alergia - Dra. Fernanda Tardelli",
+        "price": 200,
+        "participative": false,
+        "convenio": [],
+        "cod": false,
+        "obs": "Dra. Fernanda"
+    },
+    {
+        "category": "outros",
+        "name": "Colocação de DIU (Cobre)",
+        "price": 900,
+        "participative": false,
+        "convenio": [],
+        "cod": false,
+        "obs": "Consultar Médicos"
+    },
+    {
+        "category": "outros",
+        "name": "Recolocação de DIU (Cobre)",
+        "price": 500,
+        "participative": false,
+        "convenio": [],
+        "cod": false,
+        "obs": "Consultar Médicos"
+    },
+    {
+        "category": "outros",
+        "name": "Lavagem de ouvido",
+        "price": 60,
+        "participative": false,
+        "convenio": [],
+        "cod": false,
+        "obs": "Otorrinos"
+    },
+    {
+        "category": "outros",
+        "name": "Teste Aeroalergenos",
+        "price": 200,
+        "participative": false,
+        "convenio": [],
+        "cod": false,
+        "obs": false
+    },
+    {
+        "category": "outros",
+        "name": "Teste Aeroalergenos e alimentar",
+        "price": 250,
+        "participative": false,
+        "convenio": [],
+        "cod": false,
+        "obs": "Temporariamente não estamos realizando"
+    },
+    {
+        "category": "outros",
+        "name": "Teste de contato",
+        "price": 350,
+        "participative": false,
+        "convenio": [],
+        "cod": false,
+        "obs": "Temporariamente não estamos realizando"
+    },
+    {
+        "category": "outros",
+        "name": "Anuscopia",
+        "price": 180,
+        "participative": false,
+        "convenio": [],
+        "cod": false,
+        "obs": "Dr Marcelo / Não Tem Preparo / Precisa avisar o médico quando tiver este exame marcado / Se o paciente for convenio cobrar 180,00 se for particular cobrar somente a consulta."
     }
 ]
